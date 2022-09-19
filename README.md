@@ -1,6 +1,6 @@
 # list
 
-![alt text](https://github.com/nortexoid/list/blob/master/Screenshot.jpg)
+![alt text](https://github.com/nortexoid/list/blob/main/Screenshot.jpg)
 
 A blown up version of the compact task switcher
 
